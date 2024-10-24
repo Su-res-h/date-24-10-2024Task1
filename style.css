@@ -74,8 +74,8 @@ span {
     height: 50vh;
     max-width: calc(100% - 20vw);
     max-height: calc(100% - 20vh);
-    border: 2px solid;
-    /* border-radius: 15px; */
+    /* border: 2px solid; */
+    border-radius: 15px;
     background-color: white;
     text-align: center;
     padding: 30px;
